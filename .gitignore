@@ -1,0 +1,4 @@
+venv/
+.idea/
+.vscode/
+front/node_modules
